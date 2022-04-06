@@ -1,0 +1,3 @@
+// Created and Installed to start npx create-react-app frontend
+// cd Frontend      (ordner einsteigen)
+// npm start      (react)
